@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="label_btn_more">VER PUBLICACIONES</string>
+    <string name="label_hint_txt_filter">buscar usuario</string>
+    <string name="label_txt_empty">List is empty</string>
+</resources>
